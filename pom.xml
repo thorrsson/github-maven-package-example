@@ -16,7 +16,7 @@
         <repository>
             <id>github</id>
             <name>GitHub thorrsson Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/thorrsson</url>
+            <url>https://maven.pkg.github.com/thorrsson/github-maven-package-example</url>
         </repository>
     </distributionManagement>
 
