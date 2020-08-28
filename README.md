@@ -10,7 +10,7 @@ Add the dependency to your pom.xml file:
 
 ```
 <dependency>
-    <groupId>com.github.mattamorphic</groupId>
+    <groupId>com.github.thorrsson</groupId>
     <artifactId>github-maven-package-example</artifactId>
     <version>VERSION</version>
 </dependency>

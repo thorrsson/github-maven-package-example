@@ -1,4 +1,4 @@
-package com.github.mattamorphic.registry.stub;
+package com.github.thorrsson.registry.stub;
 
 public class Foo {
 

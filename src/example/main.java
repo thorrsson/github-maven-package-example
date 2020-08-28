@@ -1,6 +1,6 @@
 package example;
 
-import com.github.mattamorphic.registry.stub.Foo;
+import com.github.thorrsson.registry.stub.Foo;
 
 class Main {
     public static void main(String[] args) {

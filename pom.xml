@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
                     http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.github.mattamorphic</groupId>
+    <groupId>com.github.thorrsson</groupId>
     <artifactId>github-maven-package-example</artifactId>
     <version>0.2</version>
 
@@ -15,14 +15,14 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub mattamorphic Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/mattamorphic</url>
+            <name>GitHub thorrsson Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/thorrsson</url>
         </repository>
     </distributionManagement>
 
     <scm>
-        <connection>scm:git:https://github.com/mattamorphic/github-maven-package-example.git</connection>
-        <developerConnection>scm:git:https://github.com/mattamorphic/github-maven-package-example.git</developerConnection>
-        <url>https://github.com/mattamorphic/github-maven-package-example</url>
+        <connection>scm:git:https://github.com/thorrsson/github-maven-package-example.git</connection>
+        <developerConnection>scm:git:https://github.com/thorrsson/github-maven-package-example.git</developerConnection>
+        <url>https://github.com/thorrsson/github-maven-package-example</url>
     </scm>
 </project>
